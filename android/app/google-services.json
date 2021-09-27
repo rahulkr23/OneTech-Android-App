@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "945673441334",
+    "project_id": "basicchat-app",
+    "storage_bucket": "basicchat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945673441334:android:4b8e16c61ae3f95feac897",
+        "android_client_info": {
+          "package_name": "com.onetech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945673441334-mur3p5dvqa0i8c7j89d730t3jsivr79t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTa_FNurNHWnMZBdLCwY89DF-fi7SZ0pQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945673441334-mur3p5dvqa0i8c7j89d730t3jsivr79t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
